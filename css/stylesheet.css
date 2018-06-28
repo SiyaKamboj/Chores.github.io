@@ -15,7 +15,7 @@ h1 {
     height: 10%;
     width: 35%; 
     background-color:cadetblue;
-    display:table;
+    /*display:table;*/
     position:absolute; /*relative*/
     float:left;      
     margin-left:32.5%;
