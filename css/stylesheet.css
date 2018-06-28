@@ -4,8 +4,7 @@ h1 {
 }
 .container{
     position:relative;
-    width: 100%;
-    max-width: 400px;
+    width: 100%;    
 }
 .button{
     height: 10%;
