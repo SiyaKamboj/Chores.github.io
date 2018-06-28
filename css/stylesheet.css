@@ -21,8 +21,7 @@ h1 {
 }
 .button:hover{
     box-shadow: 10px 10px 10px #888888;
-    text-color:gray ;
-    color: black;
+    color:dimgray ;    
     border: cadetblue;
 };
     
