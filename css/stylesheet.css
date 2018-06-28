@@ -4,25 +4,24 @@ h1 {
 }
 
 .button{
-    height: 10%;
-    width: 10%; 
+    height: 35%;
+    width: 35%; 
     background-color:cadetblue;
-    display:block;
+    display:table;
     position:relative;
     float:left;      
-    margin-left:10%;
+    margin-left:30%;
     text-align:center;
     line-height:90px;
     font-size:150%;
     text-align:center;
-    font-weight:bold;
-    text-decoration:underline;
+    font-weight:bold;  
     transition-duration: 0.4s;
       
 }
 .button:hover{
     box-shadow: 10px 10px 10px #888888;
-    background-color: white;
+    text-color:gray ;
     color: black;
     border: cadetblue;
 };
