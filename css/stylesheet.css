@@ -38,7 +38,7 @@ h1 {
     
 	text-align:center;
 position:absolute;
-left: 30%;
+left: 40%;
 }
 .container{
     position:relative;
@@ -48,7 +48,7 @@ left: 30%;
 	margin-left: auto;
     margin-right: auto;
     width: 56%;
-    height: 39%;
+    height: 42%;
 	border-radius:8px;
 	text-align:center;
 	display:block;
@@ -56,7 +56,7 @@ left: 30%;
 
 #button1{
    position: absolute;
-    top: 17%;
+    top: 21%;
     left: 35%;
     
     background-color: cadetblue;
@@ -73,7 +73,7 @@ left: 30%;
 }
 #button2{
    position: absolute;
-    top: 45%;
+    top: 49%;
     left: 35%;
     
     background-color: cadetblue;
