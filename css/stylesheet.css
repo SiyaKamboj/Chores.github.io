@@ -50,6 +50,7 @@ h1 {
     height: 39%;
 	border-radius:8px;
 	text-align:center;
+	display:block;
 }
 
 #button1{
