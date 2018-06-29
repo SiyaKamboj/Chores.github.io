@@ -50,35 +50,36 @@ position:absolute;
 
 #button1{
    position: absolute;
-    top: 30%;
-    left: 30%;
+    top: 17%;
+    left: 45%;
     /*transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);*/
     background-color: cadetblue;
     color: black;
     font-size: 130%;
-    padding: 3% 6%;
+    padding: 2% 12%;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
+	
 }
 #button2{
    position: absolute;
-    top: 60%;
-    left: 30%;
+    top: 21%;
+    left: 45%;
     
     background-color: cadetblue;
     color: black;
     font-size: 130%;
-    padding: 3% 6%;
+    padding: 2% 12%;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
 }
 .button:hover{
-    box-shadow: 2px 2px 2px #888888;
+    box-shadow: 3px 3px 3px #888888;
     color:dimgray ;    
     border: cadetblue;
 };
